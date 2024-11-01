@@ -1,0 +1,255 @@
+/* member */
+#scm_member {
+	font-size:90%;
+}
+#scm_member_contact {
+	text-decoration: underline;
+}
+#scm_member_data {
+	clear: both;
+	padding: 5px 0;
+}
+#scm_member_field {
+    width:40%;
+	float:left;
+	font-style:italic;
+}
+#scm_member_field_content {
+    width:60%;
+	float:left;
+}
+
+/* invoice */
+#scm_invoice {
+    font-size:90%;
+}
+#scm_invoice_amount, #scm_invoice_header {
+}
+#scm_invoice_data {
+	clear: both;
+	padding-left:20px;
+}
+#scm_invoice_field {
+    width:40%;
+	float:left;
+	font-style:italic;
+}
+#scm_invoice_field_content {
+    width:60%;
+	float:left;
+}
+
+/* competition */
+#scm_comp {
+    font-size:90%;
+}
+#scm_comp_data {
+	clear: both;
+	padding: 5px 0;
+}
+#scm_comp_field {
+    width:60%;
+	float:left;
+}
+#scm_comp_competitor {
+	float:left;
+}
+
+/* team player */
+#scm_team {
+    font-size:90%;
+}
+#scm_team_player {
+	
+}
+#scm_team_player img {
+    width: auto;
+    height: 100px;
+	border: 1px solid grey;
+	margin-top: 10px;
+}
+#scm_team_player_contact {
+	padding-left:20px;
+}
+
+/* match (in a list) */
+#scm_match {
+    font-size:90%;
+	clear: both;
+	padding: 5px 0;
+}
+#scm_match.header {
+    font-weight:bold;
+}
+#scm_match_event.header {
+	text-align:center;
+}
+#scm_match_meta  {
+    width:0%;
+	float:left;
+}
+#scm_match_date {
+    width:22%;
+	float:left;
+}
+#scm_match_event {
+	width:78%;
+	float:left;
+}
+#scm_match_competitor {
+    width:34%;
+	float:left;
+}
+#scm_match_competitor.comp1 {
+    text-align:right;
+}
+#scm_match_competitor.comp2 {
+    text-align:left;
+}
+#scm_match_result {
+    width:32%;
+    text-align:center;
+	float:left;
+}
+
+#scm_match_meta.knockout  {
+    width:3%;
+}
+#scm_match_date.knockout {
+    width:19%;
+}
+
+#scm_match_competitor.individual.comp2 {
+    width:0;
+}
+#scm_match_result.individual {
+    width:66%;
+}
+
+/* match (single) */
+#scm_single_match {
+    font-size:90%;
+	clear: both;
+	text-align:center;
+}
+#scm_single_match_datetime {
+    width:100%;
+	float:left;
+}
+#scm_single_match_event {
+    font-size:130%;
+	width:100%;
+	float:left;
+	padding: 30px 0;
+}
+#scm_single_match_competitor {
+    width:35%;
+	float:left;
+}
+#scm_single_match_competitor.comp1 {
+    text-align:right;
+}
+#scm_single_match_competitor.comp2 {
+    text-align:left;
+}
+#scm_single_match_result {
+    width:30%;
+    text-align:center;
+	float:left;
+}
+
+#scm_single_match_competitor.individual.comp2 {
+    width:0;
+}
+#scm_single_match_result.individual {
+    width:65%;
+}
+
+/* ranking */
+#scm_ranking {
+    font-size:90%;
+	clear: both;
+	text-align:center;
+	padding: 5px 0;
+}
+#scm_ranking.header {
+    font-weight:bold;
+}
+#scm_ranking_competition {
+    width:20%;
+	float:left;	
+	text-align:left;
+}
+#scm_ranking_rank {
+    width:20%;
+	float:left;	
+	text-align:left;
+}
+#scm_ranking_competitor {
+    width:35%;
+	float:left;	
+	text-align:left;
+}
+#scm_ranking_fields {
+    width:65%;
+	float:left;	
+}
+#scm_ranking_played {
+    width:25%;
+	float:left;	
+}
+#scm_ranking_points {
+    width:25%;
+	float:left;	
+}
+#scm_ranking_wondrawlost {
+    width:25%;
+	float:left;	
+}
+#scm_ranking_diff {
+    width:25%;
+	float:left;	
+}
+
+/* match widget */
+#scm_widget_match {
+	clear: both;
+    padding:5px;
+}
+#scm_widget_competitor {
+    width:35%;
+	float:left;
+}
+#scm_widget_competitor.comp1 {
+    text-align:right;
+}
+#scm_widget_competitor.comp2 {
+    text-align:left;
+}
+#scm_widget_result {
+    width:30%;
+    text-align:center;
+	float:left;
+}
+
+#scm_widget_competitor.individual.comp2 {
+    width:0;
+}
+#scm_widget_result.individual {
+    width:60%;
+}
+
+
+/* birthday widget */
+#scm_widget_birthday {
+	clear: both;
+    padding:5px;
+}
+#scm_widget_date {
+    width:20%;
+	float:left;
+}
+#scm_widget_member {
+    width:80%;
+	float:left;
+}

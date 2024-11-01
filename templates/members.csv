@@ -1,0 +1,4 @@
+name,first name,middle name,street,number,zip,city,e-mail,phone,cell,date of birth,gender,level,start date,end date,custom1,custom2,custom3,user name
+Doe,John,,Main Street,2,5672,Nuenen,johnny@test.com,ph1,cell1,2001-12-04,female,12,2013-01-03,0000-00-00,890906,53287,413,
+Kennedy,John,Fitzgerald,Church Road,21,5672,Nuenen,jfk@dallas.org,ph2,cell2,2001-12-05,male,3.7,2013-01-03,0000-00-00,872967,3149656,351,
+Cruz,Ricardo,,Penny Av,29,5673,Nuenen,dude@great.nl,ph3,cell3,2001-12-06,female,,2013-01-03,0000-00-00,890917,6565,396,rcruz
